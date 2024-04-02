@@ -1,2 +1,1 @@
-# coderbite
-Coderbite exercises.
+# Coderbite Exercises
